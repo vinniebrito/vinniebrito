@@ -1,8 +1,8 @@
-### Hey 👋, I’m a Front-End Developer based in Brazil.
+### Hey, I’m a Front-End Developer based in Brazil.
 
 I have experience building responsive interfaces using Vue, TailwindCSS, JavaScript, and TypeScript, as well as integrating APIs to create dynamic and engaging user experiences.
 
-Before transitioning to tech, I spent over 10 years working as an Architect and Urban Planner. This background provided me with a strong foundation in design, structure, and user experience — skills I now apply to developing better applications.
+Before transitioning to tech, I spent over 10 years working as an Architect and Urban Planner. This background provided me with a strong foundation in design, structure, and user experience, skills I now apply to developing better applications.
 
 I’m passionate about solving real-world problems through code and always looking for opportunities to grow and collaborate.
 
@@ -18,10 +18,3 @@ I’m passionate about solving real-world problems through code and always looki
 ![Nuxt.js](https://img.shields.io/badge/Nuxt.js-00DC82?style=for-the-badge&logo=nuxt.js&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
----
-
-### 📫 Contact
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinniebrito)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vinniesbrito@gmail.com)
